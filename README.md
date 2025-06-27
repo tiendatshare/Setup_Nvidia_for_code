@@ -1,4 +1,5 @@
-# Setup-NVIDIA-GPU-for-Deep-Learning
+# Setup-NVIDIA-GPU-for-coder
+
 
 ## Step 1: NVIDIA Video Driver
 
